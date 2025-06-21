@@ -1,0 +1,23 @@
+{
+  "name": "matrixnodejs",
+  "version": "1.0.0",
+  "description": "AI-Agent CLI to decode blurred Data Matrix codes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datamatrix",
+    "barcode",
+    "decoder",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datamatrix-decode": "^0.0.2",
+    "sharp": "^0.34.2",
+    "zxing-wasm": "^2.1.2"
+  }
+}
