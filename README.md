@@ -1,4 +1,4 @@
-# 🏗️ AI-Agent Data Matrix Decoder — Node.js CLI
+# 🏗️ NodeJs Data Matrix Decoder — Node.js CLI
 
 A Node.js CLI tool that decodes blurred Data Matrix codes using Sharp for image preprocessing and ZXing-WASM for decoding.
 
